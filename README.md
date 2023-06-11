@@ -1,7 +1,7 @@
 # Goby
 Python Discord Bot Virus
 
-Un Bot discord éxécuté sur l'ordinateur de la victime donne accès à son pc grace à des commandes discord 
+Goby est un Bot discord éxécuté sur l'ordinateur de la victime donne accès à son pc grace à des commandes discord 
 
 ---
 
